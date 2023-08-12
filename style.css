@@ -1,0 +1,17 @@
+#main{
+    height: 20;
+    width: 20;
+}
+h4{
+    color:orange;
+}
+
+h1{
+    color:red;
+    
+    background-clip: inherit;
+}
+  *{
+    background-color: antiquewhite;
+  }
+
